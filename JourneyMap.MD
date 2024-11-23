@@ -1,5 +1,4 @@
 
-Here is the conversation formatted as a Markdown file:
 
 # Elvis Meets the Future
 
